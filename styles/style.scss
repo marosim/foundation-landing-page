@@ -10,7 +10,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background: linear-gradient(0deg, rgba(8, 65, 20, 0.7), rgba(8, 65, 20, 0.7)), url('/img/back.jpg');
+	background: linear-gradient(0deg, #084114b3, #084114b3), url('../img/back.jpg');
 	background-size: cover;
 	padding: 20px;
 	}
@@ -42,7 +42,7 @@ a {
 
 #btn-hero {
 	height: 60px;
-	background-color: rgba(18, 39, 23, 0);
+	background-color: #12271700;
 	width: 300px;
 	border: #ffffff 3px solid;
 	font-size: 15px;
@@ -51,7 +51,7 @@ a {
 
 	#btn-hero:hover {
 		height: 60px;
-		background-color: rgb(24, 24, 24);
+		background-color: #181818;
 		width: 300px;
 		border: #ffffff 3px solid;
 		font-size: 15px;
@@ -135,7 +135,7 @@ h1{
 	border-radius: 0px 150px 0px 150px;
 	max-height: 260px;
 	margin-top: 30px;
-	box-shadow: 2px 2px 1px rgb(71, 71, 71)
+	box-shadow: 2px 2px 1px #474747;
 }
 
 .gallery{
@@ -179,7 +179,7 @@ h1{
 .galleryContainer{
 	padding-bottom: 160px;
 	padding-top: 20px;
-	background: linear-gradient(45deg, rgb(99, 81, 42), rgb(28, 71, 37));
+	background: linear-gradient(45deg, #63512a, #1c4725);
 	color: white;
 }
 

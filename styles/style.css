@@ -15,8 +15,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
   height: 100vh;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(8, 65, 20, 0.7)), to(rgba(8, 65, 20, 0.7))), url("/img/back.jpg");
-  background: linear-gradient(0deg, rgba(8, 65, 20, 0.7), rgba(8, 65, 20, 0.7)), url("/img/back.jpg");
+  background: -webkit-gradient(linear, left bottom, left top, from(#084114b3), to(#084114b3)), url("../img/back.jpg");
+  background: linear-gradient(0deg, #084114b3, #084114b3), url("../img/back.jpg");
   background-size: cover;
   padding: 20px;
 }
@@ -57,7 +57,7 @@ a {
 
 #btn-hero {
   height: 60px;
-  background-color: rgba(18, 39, 23, 0);
+  background-color: #12271700;
   width: 300px;
   border: #ffffff 3px solid;
   font-size: 15px;
@@ -350,4 +350,4 @@ img.logos {
   max-height: 30vh;
   max-width: 20vw;
 }
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=style.css.map */
